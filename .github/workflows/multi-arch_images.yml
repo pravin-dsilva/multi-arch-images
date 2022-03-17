@@ -5,7 +5,7 @@ on:
       
 env:
   IMAGE_NAME: ruby-27
-  IMAGE_TAG: latest
+  IMAGE_TAG: multiarch
   IMAGE_REGISTRY: quay.io
   IMAGE_NAMESPACE: pravin_dsilva
 
